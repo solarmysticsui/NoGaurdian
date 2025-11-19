@@ -6,5 +6,5 @@ A advanced bypass for the school management extension GoGaurdian.
 </a>
 
 <a href="https://github.com/username/repo/archive/main.zip">
-  <button style="background-color: #007ACC; border: none; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 4px 2px; cursor: pointer;">Help!</button>
+  <button style="background-color: #007ACC; border: none; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 4px 2px; cursor: pointer;">Help</button>
 </a>
