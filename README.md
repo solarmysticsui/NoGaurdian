@@ -50,8 +50,7 @@ pause
 
 
 echo Organization control for Microsoft Edge has been disabled and extensions removed.
-pause')">Copy Text</button>
-
+pause
 3. click on view and click save file as and in the folder on the bottom drop down select all files and for the dropdown above name the file Disabler.bat
 4. go to your file manager and look for the file named Disabler.bat and click enter or just open/run it
 5. wait untill the bypassing process is done and then GoGaurdan should be completly removed aswell as your laptop fully anonymized to school officals
